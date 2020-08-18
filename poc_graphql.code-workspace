@@ -1,0 +1,26 @@
+{
+  "folders": [
+    {
+      "path": "..\\poc_clean"
+    }
+  ],
+  "settings": {
+    "editor.fontSize": 16,
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+      80,
+      120
+    ],
+    "editor.renderLineHighlight": "gutter",
+    "explorer.confirmDelete": false,
+    "explorer.enableDragAndDrop": false,
+    "explorer.compactFolders": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "code-runner.executorMap": {
+      "javascript": "node"
+    },
+    "code-runner.runInTerminal": true
+  }
+}
